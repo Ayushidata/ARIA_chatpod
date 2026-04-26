@@ -64,6 +64,3 @@ python-dotenv
 Install all at once:
 bashpip install groq flask SpeechRecognition pyttsx3 pyaudio python-dotenv
 
-
-SpeechRecognition — mic input library
-
